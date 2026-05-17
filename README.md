@@ -1,4 +1,4 @@
-<h1 align="center">Hola, spy Pablo Placencia 🥇📌<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center">Hola, spy Pablo Placencia 🥇📌</h1>
 <h3 align="center">Estudiante de la carrera de Computación e Informática en Cibertec</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ Soy estudiante del 6.º ciclo de <strong>Análisis y Desarrollo de Sistemas</str
   </em> 
   <br>
 <div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias que eh aprendido</i></b> 
 </div>
 
 <br>
@@ -47,7 +47,7 @@ Soy estudiante del 6.º ciclo de <strong>Análisis y Desarrollo de Sistemas</str
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
   </kbd>
   <kbd>
-    <kbd>Outros</kbd>
+    <kbd>Otros</kbd>
     <br>
     <br>
     <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
