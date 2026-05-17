@@ -1,4 +1,4 @@
-<h1 align="center">Hola, spy Pablo Placencia 🥇📌</h1>
+<h1 align="center">Hola, soy Pablo Placencia 🥇📌</h1>
 <h3 align="center">Estudiante de la carrera de Computación e Informática en Cibertec</h3>
 
 <p align="center">
