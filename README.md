@@ -1,5 +1,5 @@
 <h1 align="center">Hola, spy Pablo Placencia 🥇📌<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
+<h3 align="center">Estudiante de la carrera de Computación e Informática en Cibertec</h3>
 
 <p align="center">
   <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,10 +10,10 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+  <legend align="left"><h3>👩🏻‍💻 Acerca de mi</h3></legend>
 
   <em>
-Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+Soy estudiante del 6.º ciclo de <strong>Análisis y Desarrollo de Sistemas</strong>. Mi trayectoria en tecnología se ha venido construyendo a través de los estudios y la práctica en desarrollo de software, con enfoque en fortalecer mis conocimientos en programación y soluciones Back-End. Busco constantemente mejorar mis habilidades técnicas y adquirir experiencia para crecer profesionalmente en el sector tecnológico.
   </em> 
   <br>
 <div align= "center">
@@ -27,7 +27,6 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
@@ -44,7 +43,6 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
   </kbd>
@@ -52,12 +50,10 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
     <kbd>Outros</kbd>
     <br>
     <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
     <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
   </kbd>
   <br>
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
